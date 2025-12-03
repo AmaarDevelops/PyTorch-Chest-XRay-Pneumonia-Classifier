@@ -4,7 +4,6 @@
 
 This project implements a robust deep learning solution for binary classification of Chest X-Ray images (Pneumonia vs. Normal). It utilizes **Transfer Learning** with a pre-trained **ResNet18** model and employs an advanced, **three-phase gradual fine-tuning strategy** to achieve highly optimized performance, particularly suited for medical imaging data.
 
-The project also includes a complete setup for **Explainable AI (XAI)** using **Grad-CAM** to ensure model predictions are based on clinically relevant features. 
 
 ---
 
